@@ -10,8 +10,7 @@ upload attachments in README.md
 
 # Class Routine
 
-[20.07.25 demo routine autumn 2025 - Sheet1.pdf](https://github.com/user-attachments/files/21335376/20.07.25.demo.routine.autumn.2025.-.Sheet1.pdf)
-
+[22.07.25 demo routine autumn 2025 - Sheet1.pdf](https://github.com/user-attachments/files/21372879/22.07.25.demo.routine.autumn.2025.-.Sheet1.pdf)
 
 # QR
 
