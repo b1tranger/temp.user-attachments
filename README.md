@@ -15,7 +15,8 @@ upload attachments in README.md
 
 # QR
 
-oU1TS portal download link <img width="906" height="901" alt="image" src="https://github.com/user-attachments/assets/ede5078a-d51c-4fbd-b887-e3681c614f58" />
+oU1TS portal download link ![ou1ts portal v2 0_QR share](https://github.com/user-attachments/assets/84b61e38-12c6-44bb-b860-cad7e270d54c)
+
 
 
 # SVG
