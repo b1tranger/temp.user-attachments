@@ -2,10 +2,10 @@
 upload attachments in README.md
 
 ---
+[b1tranger_cv_v2.2.pdf](https://github.com/user-attachments/files/23690808/b1tranger_cv_v2.2.pdf)
 
-[b1tranger_cv_v2.1.pdf](https://github.com/user-attachments/files/23690734/b1tranger_cv_v2.1.pdf)
+[b1tranger_cv_v2.2.zip](https://github.com/user-attachments/files/23690809/b1tranger_cv_v2.2.zip)
 
-[b1tranger_cv.zip](https://github.com/user-attachments/files/23690736/b1tranger_cv.zip)
 
 # Class Routine
 
