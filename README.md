@@ -6,6 +6,9 @@ upload attachments in README.md
 
 [b1tranger_cv_v2.2.zip](https://github.com/user-attachments/files/23690809/b1tranger_cv_v2.2.zip)
 
+# \# Certification
+[CISCO IT Essentials - Letter Certificate.pdf](https://github.com/user-attachments/files/23825920/CISCO.IT.Essentials.-.Letter.Certificate.pdf)
+
 
 # Class Routine
 
