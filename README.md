@@ -10,9 +10,11 @@ upload attachments in README.md
 [CISCO IT Essentials - Letter Certificate.pdf](https://github.com/user-attachments/files/23825920/CISCO.IT.Essentials.-.Letter.Certificate.pdf)
 
 
-# Class Routine
+# b1tsched files
 
 [demo routine autumn 2025.xlsx - Sheet1.pdf](https://github.com/user-attachments/files/21580362/demo.routine.autumn.2025.xlsx.-.Sheet1.pdf)
+
+[academic-calendar-2026-IMG_0001.pdf](https://github.com/user-attachments/files/24494144/academic-calendar-2026-IMG_0001.pdf)
 
 
 # QR
