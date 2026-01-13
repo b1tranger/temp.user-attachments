@@ -5,9 +5,11 @@ upload attachments in README.md
 
 ### # test hypothesis
 
-new pic: ![skeleton-spam](https://github.com/user-attachments/assets/a6468a75-3982-4b5d-a24e-924a346ef1ae)
+new pic [link](https://github.com/user-attachments/assets/396b9f20-332c-461e-ac37-3d7d7df40676): <br>![skeleton-spam](https://github.com/user-attachments/assets/396b9f20-332c-461e-ac37-3d7d7df40676)
 
-old pic-1 link (not commit-ed): `https://github.com/user-attachments/assets/78fac7d7-e6c0-430f-a7c5-e3f0d72310a8`
+old pic-1 [link](https://github.com/user-attachments/assets/a6468a75-3982-4b5d-a24e-924a346ef1ae) (removed text from old commit)
+
+old pic-1 [link](https://github.com/user-attachments/assets/78fac7d7-e6c0-430f-a7c5-e3f0d72310a8) (not commit-ed)
 
 ---
 [b1tranger_cv_v2.2.pdf](https://github.com/user-attachments/files/23690808/b1tranger_cv_v2.2.pdf)
