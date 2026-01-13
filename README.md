@@ -2,6 +2,14 @@
 upload attachments in README.md
 
 ---
+
+### # test hypothesis
+
+new pic: ![skeleton-spam](https://github.com/user-attachments/assets/a6468a75-3982-4b5d-a24e-924a346ef1ae)
+
+old pic-1 link (not commit-ed): `https://github.com/user-attachments/assets/78fac7d7-e6c0-430f-a7c5-e3f0d72310a8`
+
+---
 [b1tranger_cv_v2.2.pdf](https://github.com/user-attachments/files/23690808/b1tranger_cv_v2.2.pdf)
 
 [b1tranger_cv_v2.2.zip](https://github.com/user-attachments/files/23690809/b1tranger_cv_v2.2.zip)
