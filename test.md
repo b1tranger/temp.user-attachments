@@ -29,7 +29,7 @@ old pic-1 [link](https://github.com/user-attachments/assets/78fac7d7-e6c0-430f-a
 
 # QR
 
-oU1TS portal download link ![ou1ts portal v2 0_QR share](https://github.com/user-attachments/assets/84b61e38-12c6-44bb-b860-cad7e270d54c)
+oU1TS portal download [link ](https://github.com/user-attachments/assets/84b61e38-12c6-44bb-b860-cad7e270d54c))
 
 
 
